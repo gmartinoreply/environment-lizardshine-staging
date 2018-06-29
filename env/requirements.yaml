@@ -8,8 +8,8 @@ dependencies:
   repository: https://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.58
 - name: Demo2806
-  repository: http://jenkins-x-chartmuseum:8080
+  repository: https://chartmuseum.build.cd.jenkins-x.io
   version: 0.0.11
 - name: spring28-06
-  repository: http://jenkins-x-chartmuseum:8080
+  repository: https://chartmuseum.build.cd.jenkins-x.io
   version: 0.0.11
