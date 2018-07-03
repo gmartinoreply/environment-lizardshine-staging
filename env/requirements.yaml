@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.58
 - name: spring28-06
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.17
+  version: 0.0.18
 - name: demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
